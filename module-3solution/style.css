@@ -1,0 +1,94 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+/*.sys1, #2{
+	background-color:grey;
+}*/
+.container{
+	width: 100%;
+}
+
+h1{
+	margin-bottom: 20px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 30px;
+
+}
+h2{
+	text-align: center;
+}
+section{
+	position: relative;
+	padding: 15px;
+	width: 90%;
+}
+p{
+	border: 3px solid black;
+	/*background-color: grey;*/
+	width: 90%;
+	height: 250px;
+	font-family: helvetica;
+	color: black;
+}
+div{
+	display: inline-block;
+	position: relative;
+	/*background-color: grey;*/
+	margin: auto;
+}
+.sub1{
+	text-align: center;
+	color: black;
+	width: 140px;
+	height: 50px;
+	padding: 5px;
+	margin: -3px -3px 0px;
+	border: 2px solid transparent;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+	background-color: transparent;
+}
+.sub2{
+	text-align: center;
+	color: black;
+	width: 140px;
+	height: 50px;
+	padding: 5px;
+	margin: -3px -3px 0px;
+	border: 2px solid transparent;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+	background-color: transparent;
+}
+.sub3{
+	text-align: center;
+	color: black;
+	width: 140px;
+	height: 50px;
+	padding: 5px;
+	margin: -3px -3px 0px;
+	border: 2px solid transparent;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+	background-color: transparent;
+}
+.content{
+	padding: 5px;
+	border: none;
+	background-color:lightgray;
+	color: black;
+	margin: 0px;
+	
+	overflow: auto;
+}
+.navbar-toggle{
+           float: right;
+}
